@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treinamento Nati</string>
+    <string name="treinamento_nati">Treinamento Nati</string>
+    <string name="nome">Nome:</string>
+    <string name="matricula">Matricula</string>
+    <string name="senha">Senha</string>
+</resources>
